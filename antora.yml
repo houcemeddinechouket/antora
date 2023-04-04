@@ -1,0 +1,4 @@
+site:
+  title: My Antora Site
+nav:
+  - modules: README.adoc
