@@ -1,5 +1,5 @@
 name: demo 
-title: My Antora Site
+title: demo
 version: 1.0
 start_page: ROOT::README.adoc
 nav:
