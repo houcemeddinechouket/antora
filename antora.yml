@@ -1,8 +1,6 @@
-
-site:
-  name: demo
-  title: My Antora Site
-  start_page: README.adoc
+name: demo
+title: My Antora Site
+start_page: README.adoc
 nav:
   - modules: README.adoc
   
