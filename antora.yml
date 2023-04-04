@@ -1,4 +1,6 @@
+
 site:
+  name: demo
   title: My Antora Site
   start_page: README.adoc
 nav:
