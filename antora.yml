@@ -3,5 +3,5 @@ title: My Antora Site
 version: 1.0
 start_page: README.adoc
 nav:
-  - modules: README.adoc
+  - modules: modules/ROOT/README.adoc
   
