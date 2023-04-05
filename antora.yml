@@ -1,7 +1,10 @@
-name: demo 
-title: demo
-version: 1.0
-start_page: index.adoc
+name: my-docs
+title: My Documentation
+start_page: ROOT/pages/start-page.adoc
 nav:
-  - modules: modules/ROOT/README.adoc
-  
+- modules/ROOT/nav.adoc
+content:
+- url: modules/ROOT/pages/start-page.adoc
+  start_page: true
+  title: Start Page
+
